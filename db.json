@@ -1,55 +1,18 @@
 {
-  "menu": [
-    {
-      "id": 1,
-      "title": "فیلیمو",
-      "href": "#"
-    },
-    {
-      "id": 2,
-      "title": "گنج فیلیمو",
-      "href": "#"
-    },
-    {
-      "id": 3,
-      "title": "فیلیمو مدرسه",
-      "href": "https://www.filimo.school/?utm_source=filimo-web&utm_medium=navigation&utm_campaign=filimo-user&utm_content=home"
-    },
-    {
-      "id": 4,
-      "title": "جستجو",
-      "href": "#"
-    }
-  ],
-  "menuBtns": [
-    {
-      "id": 1,
-      "title":"خرید اشتراک"
-    },
-    {
-      "id": 2,
-      "title":"ورود"
-    }
-  ],
   "sliders":[
     {
         "id":1,
-        "src":"./images/sliders/slide1.webp",
+        "src":"https://wallpapers.com/images/hd/war-games-1920-x-1080-wallpaper-av9jv08mccx2dglk.jpg",
         "alt":"ffff"
     },
     {
         "id":2,
-        "src":"./images/sliders/slide2.webp",
+        "src":"https://d2thvodm3xyo6j.cloudfront.net/media/2020/07/da412dd661cd54c9-1200x675.jpg",
         "alt":"fdsf"
     },
     {
         "id":3,
-        "src":"./images/sliders/slide3.webp",
-        "alt":"fdsf"
-    },
-    {
-        "id":4,
-        "src":"./images/sliders/slide4.webp",
+        "src":"https://static.papayaplay.com/static/assets/images/warrock/portal/Home/main.jpg",
         "alt":"fdsf"
     }
   ]
